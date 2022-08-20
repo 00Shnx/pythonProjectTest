@@ -20,4 +20,5 @@ if __name__ == '__main__':
     print("hello")
     print("完成git_IDEA")
     print("完成")
+    print("完成1")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
