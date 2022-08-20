@@ -16,4 +16,5 @@ if __name__ == '__main__':
     print("hot-fix")
     print("master")
     print("hotfix-2")
+    print("new change")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
