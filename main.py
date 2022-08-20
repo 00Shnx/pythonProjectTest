@@ -18,4 +18,5 @@ if __name__ == '__main__':
     print("hotfix-2")
     print("new change")
     print("hello")
+    print("完成git_IDEA")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
